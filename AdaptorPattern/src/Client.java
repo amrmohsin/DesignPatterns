@@ -6,7 +6,7 @@ public class Client {
 		USBAdaptor usb = new USBAdaptor();
 		usb.ConnectA();
 		
-		System.out.println("Client/Computer gets the signal!");
+		System.out.println("Client/Computer gets the request and allows access!");
 	}
 
 }

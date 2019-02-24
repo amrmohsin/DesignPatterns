@@ -1,5 +1,5 @@
 
-public class Mouse {
+public class Phone {
 
 	public void ConnectB() {
 		

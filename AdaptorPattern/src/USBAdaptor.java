@@ -1,7 +1,7 @@
 
 public class USBAdaptor {
 
-	Mouse mouse = new Mouse();
+	Phone mouse = new Phone();
 	
 	public void ConnectA() {
 		
